@@ -2,19 +2,6 @@
 
 **AI Engineer** | Founding Engineer at [FeatsClub](https://featsclub.com) | Building intelligent systems with RAG & multi-agent architectures
 
-I specialize in developing production-ready AI applications, with a focus on Retrieval-Augmented Generation (RAG) systems, scalable backend architectures, and end-to-end deployment pipelines. Building AI-native solutions from concept to production.
-
-## 🚀 What I Do
-
-- Building AI-native applications with **RAG pipelines** and **multi-agent systems**
-- Designing and implementing **data ingestion pipelines** for large-scale systems
-- Developing high-performance APIs with **FastAPI** and **Go**
-- **Context engineering** and prompt optimization for LLM applications
-- CI/CD implementation and **containerized deployments** on cloud platforms
-- Building cross platform mobile apps using Flutter.
-  
-
-
 ## 🛠️ Tech Stack
 
 **Languages:** Python, Go, Dart, JavaScript, Kotlin 
