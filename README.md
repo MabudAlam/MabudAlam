@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mabud (aka Pavel)
+Mabud (aka Pavel)
 
 **AI Engineer** | Founding Engineer at [FeatsClub](https://featsclub.com) | Building intelligent systems with RAG & multi-agent architectures
 
